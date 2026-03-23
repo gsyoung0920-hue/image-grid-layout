@@ -11,8 +11,8 @@ This project is a responsive image grid layout created using HTML and CSS Grid.
 1. Clone or download the repository
 2. Open `index.html` in your browser
 
-## 🌐 Live Demo
-[View Project Here](https://gsyoung0920-hue.github.io/image-grid-layout/)
+## 🌐 Project URL
+[View Live Site](https://gsyoung0920-hue.github.io/image-grid-layout/)
 
 ## 🛠️ Technologies Used
 - HTML
