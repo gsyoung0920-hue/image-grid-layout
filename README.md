@@ -12,7 +12,7 @@ This project is a responsive image grid layout created using HTML and CSS Grid.
 2. Open `index.html` in your browser
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here)
+[View Project Here](https://gsyoung0920-hue.github.io/image-grid-layout/)
 
 ## 🛠️ Technologies Used
 - HTML
