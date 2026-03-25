@@ -2,21 +2,28 @@
 
 This project is a responsive image grid layout created using HTML and CSS Grid.
 
-## 📌 Features
-- Uses CSS Grid for layout
-- Responsive design (mobile, tablet, desktop)
-- Displays 6 images in a custom grid pattern
+## 📌 Project URL
+[View Project](https://github.com/gsyoung0920-hue/image-grid-layout)
 
-## 🚀 How to Run
-1. Clone or download the repository
-2. Open `index.html` in your browser
+## 🚀 Live Demo
+(Add your live site here if available)
 
-## 🌐 Project URL
-[View Live Site](https://gsyoung0920-hue.github.io/image-grid-layout/)
+## 📖 Description
+This project demonstrates how to use CSS Grid to create a responsive and visually appealing image layout. It includes six images arranged in a custom grid pattern with different sizes.
+
+## ✨ Features
+- CSS Grid layout
+- Responsive design
+- Custom image arrangement (different sizes)
+- Clean and simple UI
 
 ## 🛠️ Technologies Used
 - HTML
-- CSS Grid
+- CSS (Grid)
+
+## ▶️ How to Run
+1. Clone or download this repository
+2. Open `index.html` in your browser
 
 ## 👩‍💻 Author
 Geleen Young
